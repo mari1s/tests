@@ -1,1 +1,14 @@
 body{background-color: aquamarine;}
+.pamatlaukums{
+    background-color: aliceblue;
+    width: 500px;
+    height: 500px;
+    border: 2px solid rgb(217, 112,133);
+    padding: 10px;
+    margin: auto;}
+.cataZina{
+    background-color: greenyellow;
+    height: 430px;
+    padding:10px;
+    overflow: scroll;
+    color: brown;}
